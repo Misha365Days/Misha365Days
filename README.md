@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Misha365Days Im rusian
+- 👀 I’m interested in programming and animating
+- 🌱 I’m currently learning GDvelop
+- 💞️ I’m looking to collaborate on video games in scratch and GDvelop
+- 📫 How to reach me misha365days@gmail.com

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Misha365Days Im rusian
+- 👋 Hi, I’m @Misha365Days Im Russian
 - 👀 I’m interested in programming and animating
 - 🌱 I’m currently learning GDvelop
 - 💞️ I’m looking to collaborate on video games in scratch and GDvelop
